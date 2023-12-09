@@ -92,12 +92,6 @@ main{
     box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.301);
     margin-bottom: 30px;
 }
-main.imgpq{
-    width: 100%;
-    display: block;
-    margin: auto;
-    align-content: center;
-}
 main strong{
     color: var(--cor4);
 }
