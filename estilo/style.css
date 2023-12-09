@@ -92,8 +92,10 @@ main{
     box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.301);
     margin-bottom: 30px;
 }
-main>article>picture>source .imgpq{
-    max-width: 390px;
+main>article>picture>source.imgpq{
+    max-width: 50%;
+    display: block;
+    margin: auto;
 }
 main strong{
     color: var(--cor4);
