@@ -83,7 +83,7 @@ nav>a:hover{
 }
 main{
     background-color: white;
-    min-width: 450px;
+    min-width: 280px;
     max-width: 800px;
     margin: auto;
     padding: 20px;
@@ -91,6 +91,9 @@ main{
     border-bottom-right-radius: 10px;
     box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.301);
     margin-bottom: 30px;
+}
+main>article>picture>source.imgpq{
+    max-width: 390px;
 }
 main strong{
     color: var(--cor4);
