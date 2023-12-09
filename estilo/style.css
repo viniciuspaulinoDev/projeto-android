@@ -95,6 +95,7 @@ main{
 main>article>picture>source.imgpq{
     max-width: 340px;
     margin: auto;
+    display: block;
     width: 70%;
 }
 main strong{
