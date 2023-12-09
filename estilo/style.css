@@ -114,11 +114,6 @@ main>article>img.classica{
     max-width: 350px;
     margin: auto;
 }
-main>article>picture>source.classica{
-    display: block;
-    max-width: 350px;
-    margin: auto;
-}
 main > article > h1{
     color: var(--cor5);
     font-family:var(--font-android);
