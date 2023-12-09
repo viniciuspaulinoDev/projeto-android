@@ -93,6 +93,7 @@ main{
     margin-bottom: 30px;
 }
 main.imgpq{
+    display: block;
     margin: auto;
 }
 main strong{
