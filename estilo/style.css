@@ -95,6 +95,7 @@ main{
 main>article>picture>source{
     display: block;
     width: 30%;
+    margin: 20px;
 }
 main strong{
     color: var(--cor4);
