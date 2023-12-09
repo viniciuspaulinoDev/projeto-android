@@ -93,9 +93,9 @@ main{
     margin-bottom: 30px;
 }
 main>article>picture>source{
-    display: block;
-    width: 30%;
-    margin: 20px;
+    max-width: 360px;
+    margin-right: 20px;
+    margin: auto;
 }
 main strong{
     color: var(--cor4);
