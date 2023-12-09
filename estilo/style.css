@@ -93,8 +93,10 @@ main{
     margin-bottom: 30px;
 }
 main.imgpq{
+    width: 100%;
     display: block;
     margin: auto;
+    align-content: center;
 }
 main strong{
     color: var(--cor4);
