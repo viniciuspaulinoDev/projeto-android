@@ -93,7 +93,7 @@ main{
     margin-bottom: 30px;
 }
 main>article>picture>source.imgpq{
-    max-width: 50%;
+    max-width: 20%;
     display: block;
     margin: auto;
 }
