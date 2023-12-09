@@ -92,7 +92,7 @@ main{
     box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.301);
     margin-bottom: 30px;
 }
-main source{
+main>article>picture>source{
     width: 70%;
 }
 main strong{
