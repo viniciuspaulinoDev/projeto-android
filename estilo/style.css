@@ -107,7 +107,7 @@ main a:hover{
     text-decoration: underline;
 }
 main>article>img{
-    width: 50%;
+    width: 100%;
 }
 main>article>img.classica{
     display: block;
