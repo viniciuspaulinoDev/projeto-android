@@ -93,7 +93,7 @@ main{
     margin-bottom: 30px;
 }
 main.imgpq{
-
+    margin: auto;
 }
 main strong{
     color: var(--cor4);
