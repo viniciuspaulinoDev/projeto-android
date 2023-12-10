@@ -55,8 +55,8 @@ header > h1{
 }
 header > p{
     color: white;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     font-family: var(--font-padrao);
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.301);
     padding-left: 10px;
